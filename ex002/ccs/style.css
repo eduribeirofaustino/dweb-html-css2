@@ -1,0 +1,26 @@
+@charset "UTF-8";       
+
+h1{
+    color: blue;
+}
+div{
+    height: 20px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+}
+
+#header, #footer{
+background-color: dodgerblue;
+}
+
+#nav{
+background-color: purple;
+}
+
+.header-footer{
+    width: 100px;
+}
+
+.nav-main{
+    width: 100px;
+}
