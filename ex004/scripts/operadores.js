@@ -15,5 +15,5 @@ console.log(typeof valor4)
 
 /* Quando tentamos realizar a soma entre um number e uma String o JavaScript faz uma concatenação */
 
-console.log(`O resultado da operação é : ${valor4 + valor1 + valor2}`)
+console.log(`O resultado da operação é : ${valor3 * valor2}`)
 console.log(`O resultado da operação é : ${resultado}`)
